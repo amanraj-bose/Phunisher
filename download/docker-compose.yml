@@ -1,0 +1,7 @@
+version: '1.0'
+
+services:
+  Phunisher_Framework:
+    build: .
+    volumes:
+      - "../Phunisher_Framework:/opt/Phunisher_Framework:ro/Phunisher_Framework"

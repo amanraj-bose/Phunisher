@@ -1,0 +1,18 @@
+class color:
+	black = "\033[30m"
+	red = "\033[31m"
+	green = "\033[32m"
+	yellow = "\033[33m"
+	blue = "\033[34m"
+	magenta = "\033[35m"
+	cyan = "\033[36m"
+	white = "\033[37m"
+class bright:
+	black_1 = "\033[1;30m"
+	red_1 = "\033[1;31m"
+	green_1 = "\033[1;32m"
+	yellow_1 = "\033[1;33m"
+	blue_1 = "\033[1;34m"
+	magenta_1 = "\033[1;35m"
+	cyan_1 = "\033[1;36m"
+	white_1 = "\033[1;37m"

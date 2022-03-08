@@ -1,0 +1,15 @@
+{
+  "$name": "Phunisher Framework",
+  "$version": "0.0.1",
+  "Programming Languages": ["Python", "C++", "C", "Ruby", "Shell", "Java"],
+  "$schema": "http://json-schema.org/schema",
+  "contentEncoding": "UTF-8",
+  "type": "object",
+  "License" : "Apache 2.0",
+  "$comment": "",
+  "Copyright" : [2022, "Aman Raj", "amanraj-9077"],
+  "websites" : "https://phunisher_framework.io",
+  "$id": "null",
+  "$File" : "50+",
+  "Description": null
+}

@@ -1,0 +1,59 @@
+{
+    "Name" : "Phunisher Framework",
+    "contributors" : {
+        "Amanraj-bose" : {
+            "name" : "aman raj",
+            "github" : {
+                "name" :"amanraj-bose",
+                "account" : "https://github.com/amanraj-bose",
+                "Grade" : {
+                    "Rank" : 3,
+                    "Rating" : "A"
+                }
+            },
+            "Rank" : 4.9,
+            "skill" : ["Python", "Shell", "C++", "C"],
+            "work" : ["manager", "main contributors"],
+            "Description" : null
+        },
+        
+        "null" : {
+            "name" : null,
+            "github" : {
+                "name" : null,
+                "account" : null,
+                "Grade" : {
+                    "Rank" : 0,
+                    "Rating" : "A"
+                }
+            },
+            "Rank" : null,
+            "skill" : null,
+            "work" : null,
+            "Description" : null
+        }
+    },
+    "modules" : {
+        "colour" : {
+            "classes" : ["bright", "color"],
+            "module" : null,
+            "filename" : "colour.py",
+            "module-type" : null
+        },
+        "Banner" : {
+            "classes" : null,
+            "module" : "colour.py",
+            "used" : ["color", "bright"],
+            "filename" : "banner.py",
+            "module-type" : "in-built"
+        },
+        "Wheel" : "donut.py",
+        "Speak" : "speak.py"
+    },
+    "gitignore" : {
+        "Pycharm and other jetbrains project" : ".idea",
+        "Vs code" : ".vscode",
+        "Vs Code" : ".vs",
+        "Python" : "__pycache__"
+    }
+}

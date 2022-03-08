@@ -1,0 +1,8 @@
+Package: Phunisher Framework
+Version: 1.0.0
+Installed-Size: null
+Architecture: all
+Maintainer: @amanraj-bose
+Depends: python, c, c++, shell
+Homepage: https://github.com/amanraj-9077
+Description: This is made upfor pen tester, huge exploits and payloads collection
