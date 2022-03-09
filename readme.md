@@ -68,7 +68,7 @@ Special Commands in Phunisher Framework
 
 #
 
-    cd Phunisher_Framework/download/
+    cd Phunisher/download/
 
 # 
 
