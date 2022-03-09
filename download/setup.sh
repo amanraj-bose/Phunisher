@@ -1,5 +1,6 @@
 #!/bin/sh
 
+sed -i 's/\r//' script.sh
 chmod +x install.sh
 chmod +x ../main.py
 chmod 775 ../exploit/
