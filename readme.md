@@ -87,7 +87,7 @@ Special Commands in Phunisher Framework
 
     1. GUI Installation (gui_installation.py)
     2. CMD Installation (install.py)[recommded]
-    3. Traditional Installation(setup.sh) [if any error of shell installation then you are use this sed -i 's/\r//' setup.sh]
+    3. Traditional Installation(setup.sh) [if any error of shell installation then you are use this "sed -i 's/\r//' setup.sh"]
 
     chmod +x < Name of the Method >
 
