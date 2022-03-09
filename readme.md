@@ -64,7 +64,7 @@ Special Commands in Phunisher Framework
 
 #
 
-    git clone https://github.com/amanraj-bose/Phunisher_Framework
+    git clone https://github.com/amanraj-bose/Phunisher.git
 
 #
 
