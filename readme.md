@@ -73,6 +73,8 @@ Special Commands in Phunisher Framework
 # 
 
 **Before Installing the Phunisher**
+
+    sudo apt install espeak
     
     pip3 install pyttsx3
     
