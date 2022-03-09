@@ -116,7 +116,7 @@ Special Commands in Phunisher Framework
 **If You See The Detail of all exploits and payloads and You find any bug then report me. Our Websites is Comming Soon**
 
 **_For Detail of Exploiys & Payload_** [Phunisher/exploits_&_payloads](Phunisher/documentation/exploits_and_payloads_detail.md)
-**_For Reporting Bugs_** [Phunisher/reports](Phunisher/documentation/reports.md)
+**_For Reporting Bugs_** [Phunisher/reports](https://github.com/amanraj-bose/Phunisher_beta/blob/main/documentation/reports.md)
 
 <!-- - **Coming Soon ...** -->
 <!-- - [www.Phunisher.io](https://Phunisher_tool.io) -->
