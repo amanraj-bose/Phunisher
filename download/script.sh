@@ -199,6 +199,8 @@ if [ "$(whoami)" == "root" ]; then
   printf '\e[1;32m[ Ok ] \e[1;32mPandas-profiling Installed\n'
   cd ../
   clear
+  dos2unix __init__.py
+  chmod +x __init__.py
   ./__init__.py
   
 else
