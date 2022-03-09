@@ -83,7 +83,7 @@ Special Commands in Phunisher Framework
 
     ./< Name of the method >
  
- **_if you are not install, giving an error then are you use 'python3 <name of the method>'_**
+ **_if you are not install, giving an error then are you use 'python3 < name of the method >'_**
 
 **if You Succesfully Installation then you config his setting with your name and email but if you have report me**
 
