@@ -12,6 +12,7 @@ from urllib.request import urlopen
 from pkg_resources import DistributionNotFound, get_distribution
 from colour import color as cl
 
+system("dos2unix install.py")
 
 class download(Tk):
     def __init__(self):
