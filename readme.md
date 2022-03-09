@@ -144,6 +144,9 @@ Special Commands in Phunisher Framework
 
 **Always use on root**
 
+### **Updates**
+
+Every Updates under 2 months...
 
 ### **Copyright ©**
 
