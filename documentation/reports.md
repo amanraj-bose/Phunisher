@@ -13,7 +13,7 @@
 | Port Scanner | Glitch       | `Phunisher Team`  |  Yes     |                |
 | KeyLogger    | Bug          | `Phunisher Team`  |  Yes     |                |
 | python       | Error        | `Phunisher Team`  |  Yes     |                |
-| Bash         | Error        | `Phunisher Team`  |  Yes     | Solution in|
+| Bash         | Error        | `Phunisher Team`  |  Yes     | Solution is [answer](https://github.com/amanraj-bose/Phunisher_beta/blob/main/readme.md#installation)|
 
 #
 #
