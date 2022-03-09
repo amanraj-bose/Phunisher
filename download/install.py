@@ -13,6 +13,7 @@ from banner import banner4
 from pkg_resources import get_distribution, DistributionNotFound
 from subprocess import call
 
+system("dos2unix gui_installation.py")
 
 class Installer:
     def __init__(self) -> None:
