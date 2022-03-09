@@ -31,4 +31,6 @@ sleep 0.01s
 
 dos2unix __init__.py
 chmod +x __init__.py
+sed -i 's/\r//' ../script.sh
+chmod +x script.sh
 ./script.sh
