@@ -71,6 +71,16 @@ Special Commands in Phunisher Framework
     cd Phunisher_Framework/download/
 
 # 
+
+**Before Installing the Phunisher**
+    
+    pip3 install pyttsx3
+    
+    sudo apt install xterm
+    
+    sudo apt install figlet
+
+# 
 **If you Installing the Phunisher then you have three options first gui installation second cmd installation with Python and third is traditional method**
 
     1. GUI Installation (gui_installation.py)
@@ -126,6 +136,12 @@ Special Commands in Phunisher Framework
 **The Main Window Of Phunisher**
 
 [![Screenshot-from-2022-03-08-07-04-18.png](https://i.postimg.cc/ZKDTM38h/Screenshot-from-2022-03-08-07-04-18.png)](https://postimg.cc/BXH98j7h)
+
+
+#### ⚠️ Warning ⚠️
+
+**Always use on root**
+
 
 ### **Copyright ©**
 
